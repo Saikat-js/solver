@@ -1,0 +1,22 @@
+{
+  "userToken": "any_token",
+  "apiKey": "api_key",
+  "hostname": "chutiya.shuupiro.online:3000"
+}
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "Error: no test specified" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "discord.js": "^14.21.0",
+    "discord.js-selfbot-v13": "^3.6.1"
+  }
+}
